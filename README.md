@@ -1,4 +1,4 @@
-La mia biografia
+
 Vengo dalla provincia di Napoli. ho 22 anni e mi interesso alla musica, alla fotografia e al teatro.
 
 <!---
